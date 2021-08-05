@@ -1,0 +1,10 @@
+body
+{
+    background-color: #aca2af;
+}
+#test
+{
+    text-align: center;
+    font-size: 80px;
+    border: black solid 6px;
+}
